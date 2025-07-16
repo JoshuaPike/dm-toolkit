@@ -1,0 +1,35 @@
+/* DM Toolkit Styles */
+
+.dm-toolkit-dialog .dialog-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.dm-toolkit-dialog .dialog-button {
+    background: rgba(0, 0, 0, 0.1);
+    border: 2px solid #782e22;
+    border-radius: 3px;
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+.dm-toolkit-dialog .dialog-button:hover {
+    background: rgba(120, 46, 34, 0.1);
+    box-shadow: 0 0 5px #782e22;
+}
+
+/* Utility Classes */
+.dm-toolkit-hidden {
+    display: none !important;
+}
+
+.dm-toolkit-flex {
+    display: flex;
+}
+
+.dm-toolkit-flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 

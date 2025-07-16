@@ -1,0 +1,22 @@
+{
+    "dm-toolkit": {
+        "settings": {
+            "enableCombatFeatures": {
+                "name": "Enable Combat Features",
+                "hint": "Enable enhanced combat management features"
+            }
+        },
+        "dialogs": {
+            "confirm": "Confirm",
+            "cancel": "Cancel",
+            "apply": "Apply",
+            "close": "Close"
+        },
+        "combat": {
+            "applyDamage": "Apply Damage",
+            "calculateDamage": "Calculate Damage",
+            "damageType": "Damage Type",
+            "amount": "Amount"
+        }
+    }
+} 

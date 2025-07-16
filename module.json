@@ -1,0 +1,35 @@
+{
+  "id": "dm-toolkit",
+  "title": "DM Toolkit",
+  "description": "A collection of utilities and tools to enhance DM/GM gameplay management",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Josh"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "scripts": [],
+  "esmodules": [
+    "scripts/dm-toolkit.js",
+    "scripts/api.js"
+  ],
+  "styles": [
+    "styles/dm-toolkit.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": true,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "MIT"
+} 
