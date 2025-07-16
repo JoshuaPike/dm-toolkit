@@ -2,16 +2,16 @@
   "id": "dm-toolkit",
   "title": "DM Toolkit",
   "description": "A collection of utilities and tools to enhance DM/GM gameplay management",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "authors": [
     {
       "name": "Josh"
     }
   ],
   "compatibility": {
-    "minimum": "10",
-    "verified": "11",
-    "maximum": "11"
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
   },
   "scripts": [],
   "esmodules": [
